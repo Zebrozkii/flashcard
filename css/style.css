@@ -1,0 +1,20 @@
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+.clickable, .clickable1, .clickable2, .clickable3, .clickable4, .clickable5,.clickable6, .clickable7, .clickable8 {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+.clickable:hover, .clickable1:hover, .clickable2:hover, .clickable3:hover, .clickable4:hover, .clickable5:hover, .clickable6:hover, .clickable7:hover, .clickable8:hover,  {
+  text-decoration: underline;
+}
+
+.js-hidden, .oper-hidden, .var-hidden, .func-hidden, .meth-hidden, .arg-hidden, .para-hidden, .strings-hidden ,.bool-hidden {
+  display:none;
+}
