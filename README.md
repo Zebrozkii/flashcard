@@ -1,4 +1,4 @@
-# _Flash CArds_
+# _Flash Cards_
 
 #### _Flash Cards_
 
